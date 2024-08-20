@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/BajajGirik/cool-stuff#readme",
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^8.2.0",
+    "@typescript-eslint/parser": "^8.2.0",
+    "eslint": "^9.9.0",
     "typescript": "^5.5.4"
   }
 }
