@@ -1,0 +1,8 @@
+# Env
+.env
+.env.local
+.env.staging
+.env.production
+
+# Miscellaneous
+.DS_Store
